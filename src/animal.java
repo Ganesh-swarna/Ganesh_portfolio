@@ -1,3 +1,6 @@
 public class animal {
-    System.out.print("Goat");
+    public static void main() {
+        System.out.print("Goat");
+    }
 }
+
